@@ -1,2 +1,2 @@
 # ProceduralLevelGeneration-Swift
-A port of the Procedural Level Generation tutorial from raywenderlich.com to Swift. Originally written by Kim Pedersen.
+A Swift port of the Procedural Level Generation tutorial using SpriteKit from raywenderlich.com. Originally written by Kim Pedersen.
