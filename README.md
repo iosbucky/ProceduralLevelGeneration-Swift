@@ -12,6 +12,7 @@ Part 2: [http://www.raywenderlich.com/51786/procedural-level-generation-in-games
 Adopted code from Objective-C to Swift 1.2
 
 **What is the License for the Tutorial Source Code?**
+
 For licensing, please refer to [http://www.raywenderlich.com/faq](http://raywenderlich.com/faq)
 
 [MIT License](http://opensource.org/licenses/MIT) applies for the code in this repository
